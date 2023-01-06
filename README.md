@@ -1,10 +1,12 @@
-### Olá! Eu sou a Bárbara Cecim!👋
+### Hello! I'm Bárbara Cecim!👋
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](barbara.cecim@gmail.com) 
 
+- Biomedical engineering student 💻
+- Studying web development💻
 
 ![Bárbara GitHub stats](https://github-readme-stats.vercel.app/api?username=b4rb4r4-c3cim&show_icons=true&theme=tokyonight)
 
-### Tecnologias 
+### Technologies
 
 <div style="display: inline_block"><br/>
 
