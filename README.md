@@ -5,7 +5,6 @@
 - Studying web development💻
 - Studying java 💻
 
-![Bárbara GitHub stats](https://github-readme-stats.vercel.app/api?username=b4rb4r4-c3cim&show_icons=true&theme=tokyonight)
 
 ### Technologies
 
