@@ -5,6 +5,9 @@
 - Studying web development💻
 - Studying java 💻
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=b4rb4r4-c3cim&count_private=true&show_icons=true&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4rb4r4-c3cim&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+
 
 ### Technologies
 
