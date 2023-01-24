@@ -1,5 +1,5 @@
 ### Hello! I'm Bárbara Cecim!👋
-[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](barbara.cecim@gmail.com) 
+<a href = "mailto:barbara.cecim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 - Biomedical engineering student 💻
 - Studying web development💻
