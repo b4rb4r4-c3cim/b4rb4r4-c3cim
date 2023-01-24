@@ -5,8 +5,6 @@
 - Studying web development💻
 - Studying java 💻
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4rb4r4-c3cim&langs_count=12&layout=compact&theme=midnight-purple" align="right">
-
 ### Technologies
 
 <div style="display: inline_block"><br/>
