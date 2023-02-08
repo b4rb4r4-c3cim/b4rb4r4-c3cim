@@ -3,7 +3,11 @@
 
 - Biomedical engineering student 💻
 - Studying web development💻
-- Studying java 💻
+- Studying java 💻        
+- 
+ <div align="center" style="display: inline_block">
+  <img align="center" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
 
 ### Technologies
 
